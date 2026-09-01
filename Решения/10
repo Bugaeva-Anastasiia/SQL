@@ -1,0 +1,3 @@
+UPDATE doctors
+SET CABINET_NUM = '14'
+WHERE doctor_num = 3;
