@@ -1,0 +1,6 @@
+# Добавьте в таблицу patients новое поле - area_num с типом TINYINT.
+CREATE TABLE patients(
+FULL_NAME VARCHAR(100),
+SEX CHAR (1),
+BIRTH_DATE DATE,
+OMC_NUM BIGINT (16));
