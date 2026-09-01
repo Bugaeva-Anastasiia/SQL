@@ -1,0 +1,2 @@
+INSERT INTO doctors (doctor_name, spec, cabinet_num)
+VALUES('Жуков Василий Петрович', 'кардиолог', 21);
